@@ -1,0 +1,5 @@
+# CP367 Test
+
+This repository is being used for Assignment 6 in CP367.
+
+Updated for the GitHub exercise in Assignment 6.
